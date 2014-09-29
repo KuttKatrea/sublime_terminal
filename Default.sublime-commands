@@ -60,5 +60,11 @@
             "file": "${packages}/User/Default (Linux).sublime-keymap",
             "platform": "Linux"
         }
+    }, {
+        "caption": "Terminal: Open Terminal in Project Folder",
+        "command": "open_terminal_project_folder"
+    }, {
+        "caption": "Terminal: Open Terminal",
+        "command": "open_terminal"
     }
 ]
